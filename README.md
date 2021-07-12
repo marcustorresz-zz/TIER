@@ -14,7 +14,7 @@ status](https://travis-ci.com/marcustorresz/TIER.svg?branch=main)](https://travi
 <!-- badges: end -->
 
 `TIER` is an R package to Provides documentation for your R project,
-through version 4.0 of the TIER protocol, developed by project TIER.
+through version 4.0 of the [TIER protocol](https://www.projecttier.org/tier-protocol/tier-protocol-version-history/#tier-protocol-version-30), developed by [Project TIER](https://www.projecttier.org/).
 
 ## Installing
 
