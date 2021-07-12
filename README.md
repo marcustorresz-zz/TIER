@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# siconvr
+# TIER
 
 <!-- badges: start -->
 
@@ -48,4 +48,4 @@ issues](https://github.com/marcustorreszs/TIER/issues).
 ## Authors
 
 [Marcus Torres](https://marcustorresz.github.io/) and [Amanda
-Domingos]()
+Domingos](https://amandadomingos.github.io/)
