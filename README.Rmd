@@ -46,11 +46,7 @@ remotes::install_github("marcustorresz/TIER")
 ```
 
 
-Then load it with:
 
-```{r}
-library(TIER)
-```
 
 
 ## How to use
